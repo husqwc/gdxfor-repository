@@ -1,0 +1,3 @@
+MIT Scratch Server	web.media.mit.edu	/~jmaloney/mit_scratch/
+LTC Scratch Server	ltc.smm.org		/scratch/
+*share*	alpha.scratchr.org	/services/upload
